@@ -1,3 +1,7 @@
+Learn React Native by https://github.com/nomadcoders/NomadWeather
+
+---
+
 환경구성
 
 - VSCODE
