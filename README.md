@@ -122,4 +122,4 @@ View의 Flex로 비율로 부모 기준으로사이즈를 조절
 - 레이아웃 사이즈에 height width를 사용하지 않음 - Flex 이용
 
 
-![image](https://user-images.githubusercontent.com/35837185/187458453-7f34e1d4-41f9-4e29-b935-98ff1e5c389e.png)
+![image](https://user-images.githubusercontent.com/35837185/187460608-968fe46d-fcb3-4ae0-99ad-d8b29d24fd17.png)
